@@ -1,5 +1,5 @@
 # Fortnite-Offsets
-Latest Version: **``++Fortnite+Release-33.30-CL-39768313-Windows``**
+Fortnite-Offsets
 
 # ++Fortnite+Release-33.30-CL-39768313-Windows
 ```cpp

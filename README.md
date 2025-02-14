@@ -1,5 +1,5 @@
 # Fortnite-Offsets
-私をクレジットしてください
+オフセットを使用する際は、私をクレジットしてください
 
 # ++Fortnite+Release-33.30-CL-39768313-Windows
 ```cpp
